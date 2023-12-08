@@ -5,7 +5,6 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: "./index.html",
-        room: "./room.html",
         // add more sub pages here
       },
     },
